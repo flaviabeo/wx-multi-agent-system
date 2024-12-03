@@ -1,6 +1,6 @@
 # Watsonx + Granite 3.0 Multi Agent System with Crew AI
 
-For this demo, all the dependencies can be installed within the notebook, and either the watsonx.ai or ollama can be used as to provide LLM base model.
+For this demo, all the dependencies can be installed within the notebook, and either the watsonx.ai or ollama can be used to provide LLM base model.
 
 ## LLM Model with Ollama serve
 
@@ -22,3 +22,4 @@ Please, refer to [watsonx docs](https://cloud.ibm.com/docs/watsonxdata?topic=wat
 
 - [Granite tool calling](https://www.ibm.com/think/tutorials/granite-function-calling)
 - [Base Article](https://developer.ibm.com/blogs/awb-leveraging-crewai-and-ibm-watsonx/)
+- [Crew AI](https://docs.crewai.com/introduction)
