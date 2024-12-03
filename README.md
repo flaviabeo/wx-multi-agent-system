@@ -1,4 +1,4 @@
-# Watsonx Multi Agent System with Crew AI
+# Watsonx + Granite 3.0 Multi Agent System with Crew AI
 
 For this demo, all the dependencies can be installed within the notebook, and either the watsonx.ai or ollama can be used as to provide LLM base model.
 
